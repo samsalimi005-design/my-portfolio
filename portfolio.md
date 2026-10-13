@@ -5,8 +5,9 @@ Name: Sam
 Major: Computer Science
 
 ## Skills
-- Programming: Basic
-- Git: Learning
+- Programming: Python, Java
+- Git: Intermediate
+- Web Development: HTML, CSS
 
 ## Projects
 - Project 1: TBD
